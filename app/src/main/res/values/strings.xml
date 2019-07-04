@@ -1,0 +1,8 @@
+<resources>
+    <string name ="app_name">Finding Pi - Chudnovsky Algorithm</string>
+    <string name ="dplaces_guide">Enter the Number of Decimal Places</string>
+    <string name ="prec_guide">Enter the Precision (Higher number means more processing time)</string>
+    <string name ="find_btn_text">Find Pi</string>
+    <string name ="reset_btn_text">Reset</string>
+    <string name ="results_text">Pi is</string>
+</resources>
